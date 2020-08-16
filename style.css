@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_12778507_elegant-royal-frame-with-crown-isolated-on-white-background.html&psig=AOvVaw3FM5GScdc_dBwB78nVKiIk&ust=1597645631260000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODT2vqLn-sCFQAAAAAdAAAAABAH");
+  font-family: "Syncopate", sans-serif;
+  text-align: center;
+  background-color: peachpuff;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.row {
+  justify-content: center;
+}
