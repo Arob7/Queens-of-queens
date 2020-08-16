@@ -1,2 +1,2 @@
 # evil-queens
-all things about evil queens
+all things about queens
