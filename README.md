@@ -1,5 +1,4 @@
 
 # Queen-of-queens
-
-A website of collection of queens from many different aspects.
+Just a collection of historic queens! U+2655
 
