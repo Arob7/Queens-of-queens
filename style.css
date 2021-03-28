@@ -1,14 +1,26 @@
 body {
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_12778507_elegant-royal-frame-with-crown-isolated-on-white-background.html&psig=AOvVaw3FM5GScdc_dBwB78nVKiIk&ust=1597645631260000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODT2vqLn-sCFQAAAAAdAAAAABAH");
-  font-family: "Syncopate", sans-serif;
+  background-image: url("https://images.creativemarket.com/0.1.0/ps/2574233/910/607/m1/fpnw/wm0/vect245-.jpg?1492738836&s=099e78051e5e03334c6695a897d20fef&fmt=webp");
+  font-family: "Lato", sans-serif;
+
   text-align: center;
   background-color: peachpuff;
 }
 
 h1 {
   font-weight: bold;
+  color: white;
+  /* color: #897344; */
 }
 
 .row {
   justify-content: center;
+}
+
+.name,
+h1 {
+  font-family: "Syncopate", sans-serif;
+}
+
+.card:hover {
+  transform: scale(1.1);
 }
